@@ -10,9 +10,9 @@ Purpose is to set an environment and show I am ready for the sprints.
 
 # Development Environment
 
-I used VS Code and git for this software.
-
-I used Python language for this.
+* Visual Studio Code
+* Python Manual
+* Git/Github
 
 # Useful Websites
 
